@@ -1,4 +1,4 @@
-In this weeks HW we had to create a weather app with a five day forecast.
+In this weeks HW we had to create a weather app with a five day forecast using a weather api with the dates aswell as the conditions.
 
 Github deploy link: https://markhamtrenton.github.io/Weather-App/
 
