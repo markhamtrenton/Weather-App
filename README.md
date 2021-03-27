@@ -2,6 +2,7 @@ In this weeks HW we had to create a weather app with a five day forecast.
 
 Github deploy link:
 Github repo: https://github.com/markhamtrenton/Weather-App
+Screen Shot below
 ![image](https://user-images.githubusercontent.com/77074964/112736140-cfa29500-8f26-11eb-8184-67fb38dc1c3b.png)
 
 
