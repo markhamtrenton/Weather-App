@@ -1,0 +1,44 @@
+body {
+    height: 100vh;
+    width: 100%;   
+    background-image: url('');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 10s;
+
+    animation-name: animate;
+    animation-direction:  alternate-reverse;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+    animation-timing-function: ease-in-out;
+}
+
+
+@keyframes animate {
+    0%{
+        background-image: url('backgroundimage/clouds-3488632_1920.jpg');
+    }20%{
+        background-image: url('backgroundimage/fields-1589613_1920.jpg');
+    }40%{
+        background-image: url('backgroundimage/flash-2568381_1920.jpg');
+    }60%{
+        background-image: url('backgroundimage/lightning-1056419_1920.jpg');
+    }80%{
+        background-image: url('backgroundimage/sky-690293_1920.jpg');
+    }100%{
+        background-image: url('backgroundimage/weatheryes.jpg');
+    }
+
+
+
+}
+
+
+
+#todays-weather {
+    background-color: #cce5ff;
+}
+
